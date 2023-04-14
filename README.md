@@ -20,3 +20,5 @@ To run
 put your text file in the input folder and name it `text.txt`
 
 `python3 src/main.py`
+
+Outputs Markdown
